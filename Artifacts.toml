@@ -25,3 +25,13 @@ os = "linux"
     [[HelloWorldC.download]]
     sha256 = "7172189dee58c8535679dde4c7935e58ab1346785f75740af678be7e707edf73"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.0+0/HelloWorldC.v1.0.0.i686-linux-gnu.tar.gz"
+[[HelloWorldC]]
+arch = "i686"
+git-tree-sha1 = "b1e2f7e38678a3a98766cecdbdbe82de95c5f38c"
+libc = "musl"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "e0e662343a0076e217fd98db681866d637b9d0770fd0a4165c5e2d15c9aa0542"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.0+0/HelloWorldC.v1.0.0.i686-linux-musl.tar.gz"
+x-gnu.tar.gz"
