@@ -1,0 +1,18 @@
+[[HelloWorldC]]
+arch = "armv7l"
+git-tree-sha1 = "722a356abfd4f06062c97986fce9fd8863cc369c"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "9456633945a755b1cdb3643af1ac147a84244e8966305f51fa247bc5a470af0c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.0+0/HelloWorldC.v1.0.0.arm-linux-gnueabihf.tar.gz"
+[[HelloWorldC]]
+arch = "aarch64"
+git-tree-sha1 = "f890ef264b44a1e354212746f1bb007ab63df25b"
+libc = "glibc"
+os = "linux"
+
+    [[HelloWorldC.download]]
+    sha256 = "4acc16997fa679ae5ff7f445e9456eb0ce05dfaa75399cb0176b7a01c0a59b05"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.0+0/HelloWorldC.v1.0.0.aarch64-linux-gnu.tar.gz"
