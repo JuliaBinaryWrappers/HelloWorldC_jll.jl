@@ -109,5 +109,5 @@ libc = "glibc"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "7339ee4835e3387bcafd9cbd5d89935feaccde2ff9fb3c379a7567f2a8c68341"
+    sha256 = "46eba0d1ee1ea0924a7e1648d65c3041a3f5bd047c5336c7cf2e9bfe56362a01"
     url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.8+1/HelloWorldC.v1.0.8.x86_64-linux-gnu.tar.gz"
