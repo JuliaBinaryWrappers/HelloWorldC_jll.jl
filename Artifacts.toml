@@ -1,113 +1,113 @@
 [[HelloWorldC]]
 arch = "aarch64"
-git-tree-sha1 = "9028c28b87ee4efaa27012facd8461b912de71b5"
+git-tree-sha1 = "71f3dfca72c3e76621c0a719ecba6a86a763e048"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "b2091f6af911a20813c07e067482270109afdb737d15efb4997bfad898ff68e9"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.aarch64-linux-musl.tar.gz"
+    sha256 = "502fadff9dc8e44574485c655b87a49b032dcbb389f34d17d07485a50fd60828"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.aarch64-linux-musl.tar.gz"
 [[HelloWorldC]]
 arch = "i686"
-git-tree-sha1 = "2c0fccb55c102f66bc8babb004d57fd60a5fb266"
+git-tree-sha1 = "53a302ad548e9b916b4aa66637065967ee870857"
 os = "windows"
 
     [[HelloWorldC.download]]
-    sha256 = "4fcbe3b5894371870e5f7205d5f74d09e4776eac9083fd4a9f6dee37098dcac1"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.i686-w64-mingw32.tar.gz"
+    sha256 = "f0d9078eb495ce7125a051875f682678edd1034d1f0f044dde60b1e1191574f1"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.i686-w64-mingw32.tar.gz"
 [[HelloWorldC]]
 arch = "x86_64"
-git-tree-sha1 = "f14d9db7ad9e3868e8a29ae27e8155119fc1c428"
+git-tree-sha1 = "2bec6445e82ed9f5d185b65ddf63f4775f9505e7"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "37b2030ede0b4d31a4114bf83194a01ac17b58bb4fba9e719377ced8699600ed"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.x86_64-linux-musl.tar.gz"
+    sha256 = "d53135866a21c36839fb0fc6199e70e0ae6d66a1ca9e37cd4635ac7bdddaf2b5"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.x86_64-linux-musl.tar.gz"
 [[HelloWorldC]]
 arch = "i686"
-git-tree-sha1 = "ecfc9123e796e446e0a6769a76984df85ce8f813"
+git-tree-sha1 = "f7a435764e14362464fa4a463790a1011f95b834"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "39e6c0a28d7d0598af83a3d331ec37da9da29c360f99dbf26965a45da26be702"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.i686-linux-gnu.tar.gz"
+    sha256 = "c5620b13ff3d1fadab8819f70bbf7c733736112be7a14dc231bc869eaf9d0a4a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.i686-linux-gnu.tar.gz"
 [[HelloWorldC]]
 arch = "armv7l"
-git-tree-sha1 = "7e8c94ed9ea3b96b3d9862d77e9992d92ade43b6"
+git-tree-sha1 = "e9210045f1c63941b200b50b7f00832445b063f3"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "18f3017c92cee5766c9bbc2fa3f3e560961084740a1cefcf071667db820dbe97"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7ce9b1fa86262f35b8da5e16806e3c182840f4b50e4fbbc5af809c39cd22ab85"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.armv7l-linux-gnueabihf.tar.gz"
 [[HelloWorldC]]
 arch = "aarch64"
-git-tree-sha1 = "3fb2edf2c1d2f360b7fac38eb145c0523ac44740"
+git-tree-sha1 = "a380b8739be674294de86c52776b6e4367f46f23"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "b11c7cb2b3e591c908b69259dbd26e3ed7b992d23c64a7a75d6c08098af5e40d"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.aarch64-linux-gnu.tar.gz"
+    sha256 = "5d014731eab116f86e441dd28648dd0cb1fb217eae86c06dba177409143c9732"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.aarch64-linux-gnu.tar.gz"
 [[HelloWorldC]]
 arch = "x86_64"
-git-tree-sha1 = "bca7c43f9577b90e5121384daabe09962c6dafdc"
+git-tree-sha1 = "7ff3f48676d8637e08d97124131c43ceb8101757"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "2cfc632cc5bc9f525bfa9a9e1247568b247338c6078e512649cfd1b2df83ced2"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.x86_64-linux-gnu.tar.gz"
+    sha256 = "d9ae1152c2b61297dac602c941728dac7c6434534185f4c934c4485904e3207f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.x86_64-linux-gnu.tar.gz"
 [[HelloWorldC]]
 arch = "powerpc64le"
-git-tree-sha1 = "5e66f5c75cdb622d1000001c5c8681118e3ad1db"
+git-tree-sha1 = "28956d8c084120a64d6f7c2e508c0d499140938d"
 libc = "glibc"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "bb10601aa3366a2718d00cc7cd065c251133a0e69b60e2f77a3e4b588bd017c9"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "73f10af447d3cfde611457ab2e8f5b7da9142da1b4ce95f19c3e196ab95d13b9"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.powerpc64le-linux-gnu.tar.gz"
 [[HelloWorldC]]
 arch = "x86_64"
-git-tree-sha1 = "f45efb8396418523e79a213a0f36f4ca6aca42d8"
+git-tree-sha1 = "ea4f7a458b682ea5250e187b022f3a33ccedbf66"
 os = "macos"
 
     [[HelloWorldC.download]]
-    sha256 = "5176c26372359160506d15392e6acbe6ff8d9a08b9a9e36bd892a70048927d0f"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.x86_64-apple-darwin14.tar.gz"
+    sha256 = "10e17f1c941b60a5719573608f8f99d3b60ec7e311edb54fffcab0150bafb874"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.x86_64-apple-darwin14.tar.gz"
 [[HelloWorldC]]
 arch = "x86_64"
-git-tree-sha1 = "ebad97eb0ed2ef2567245d3685b5989e19f18810"
+git-tree-sha1 = "a15fd0224bbd5dd6d64a68bf490d66d814ce474f"
 os = "freebsd"
 
     [[HelloWorldC.download]]
-    sha256 = "38b63bf4605f9f9bef9b813fbffb2a0046c071ce31ae77be82a5a28288fd9d27"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "ec740e4d270b2bb030ec4aa1fac2c10f242488a23acb8d65fbf06f8afa9bffee"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.x86_64-unknown-freebsd11.1.tar.gz"
 [[HelloWorldC]]
 arch = "i686"
-git-tree-sha1 = "0f924e8244287b32628950f8caaaf4da739273f2"
+git-tree-sha1 = "af88608aebaaac80e1d971d6c0dbd578950351a7"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "ddd00a855c7ee2ddb94a3535c0be5d5f47c9fbcf7dd4729fa895f8a2a02a72f1"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.i686-linux-musl.tar.gz"
+    sha256 = "1cd14ce50fd14eae657a50310ae1ac25d1ed94733c422b52f4c3821fc5ebebb0"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.i686-linux-musl.tar.gz"
 [[HelloWorldC]]
 arch = "armv7l"
-git-tree-sha1 = "3d85e55e6137f92ce9115d67e73ecfe38c868053"
+git-tree-sha1 = "abbd602c154a6f79e0f269daaa4258e50d645061"
 libc = "musl"
 os = "linux"
 
     [[HelloWorldC.download]]
-    sha256 = "a6811082457f3168c056eefe687034474c4f082b16ec9bfbbe5ae84a5304179a"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "3941741b91cd9d226a6587cd45fb17c6e2f0bc5b4fd421f6d1fe91299c9f9fc3"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.armv7l-linux-musleabihf.tar.gz"
 [[HelloWorldC]]
 arch = "x86_64"
-git-tree-sha1 = "3c9a8a0dde6cf5b932b9d960d0f60ef314da3ab8"
+git-tree-sha1 = "6e848e2a968a643513db5d20d9b8c9d2f601809a"
 os = "windows"
 
     [[HelloWorldC.download]]
-    sha256 = "ba26eb76314ffe54fa5ebbe541668c6915b4c8311aee7d41a19bd30bee97a327"
-    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.14+0/HelloWorldC.v1.0.14.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5644a9f3965d91bbad76f53a78941a5619e0f67de7749c693a248498085fe872"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldC_jll.jl/releases/download/HelloWorldC-v1.0.15+0/HelloWorldC.v1.0.15.x86_64-w64-mingw32.tar.gz"
