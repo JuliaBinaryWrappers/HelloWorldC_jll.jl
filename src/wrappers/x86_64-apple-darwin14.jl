@@ -38,13 +38,16 @@ function hello_world(f::Function; adjust_PATH::Bool = true, adjust_LIBPATH::Bool
 end
 
 
+# Inform that the wrapper is available for this platform
+wrapper_available = true
+
 """
 Open all libraries
 """
 function __init__()
-    global artifact_dir = abspath(artifact"HelloWorldC")
+    # This either calls `@artifact_str()`, or returns a constant string if we're overridden.
+    global artifact_dir = find_artifact_dir()
 
-    # Initialize PATH and LIBPATH environment variable listings
     global PATH_list, LIBPATH_list
     global hello_world_path = normpath(joinpath(artifact_dir, hello_world_splitpath...))
 
@@ -57,4 +60,3 @@ function __init__()
 
     
 end  # __init__()
-
